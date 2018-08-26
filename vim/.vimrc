@@ -48,6 +48,9 @@ Plug 'kien/ctrlp.vim'
 Plug 'easymotion/vim-easymotion'
 Plug 'scrooloose/syntastic'  
 "Plug 'valloric/youcompleteme'
+Plug 'tpope/vim-fugitive'
+Plug 'tpope/vim-surround'
+Plug 'godlygeek/tabular'
 
 " Initialize plugin system
 call plug#end()
